@@ -12,5 +12,8 @@ The year 2038 problem refers to maximum unix date that can be stored in i32 valu
 
 ## To run
 
+Build:
 `gcc -o 2038 src/main.c`
+
+Run:
 `./2038`
